@@ -17,3 +17,9 @@ Given that the monolith system has its advantages it is also not without its pro
 # Technical Proposal - Microservice
 The other method is using the micro-service architecture which as gained popularity in recent years and it has subsequently been adopted by many high-tech companies such as Uber, and such.  The advantages of a micro-service architecture are that each feature can be discretized and only have to interact with other features through their APIs.  This way many features can be deployed within a single app and minimize chances of whole system crashing.  For example, in the earlier example if a book title popularity feature (see Appendix A.3.) was to be added based on data collected from books checked out it would be much easier to deploy via micro-service architecture.  Therefore micro service architecture in addition to solving New York Public Library’s item tracking problem can also be used to add various features to improve the experience for all those involved and advance the library’s mission statement.  
 
+# Reference(s):
+
+1.	The New York Public library (2018), Retrieved from url: https://www.nypl.org/help/about-nypl
+
+2.	Mashberg, Tom, “A Slippery Number: How Many Books Can Fit in the New York Library?” Nov 27, 2015  New York Times. url: https://www.nytimes.com/2015/11/28/arts/design/a-slippery-number-how-many-books-can-fit-in-the-new-york-public-library.html
+
